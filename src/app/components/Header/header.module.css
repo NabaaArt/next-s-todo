@@ -1,0 +1,29 @@
+.header {
+    border-bottom: 1px solid #eee;
+  }
+  
+.ac {
+    color: #000;
+    text-decoration: none;
+  }
+ .content {
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    align-items: center;
+  }
+  
+ .content ul {
+    list-style-type: none;
+    display: flex;
+  }
+  
+.content ul li {
+    margin-left: 20px;
+    font-size: 18px;
+  }
+  
+ .active {
+    color: #0000ff;
+    text-decoration: none;
+  }
